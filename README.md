@@ -1,6 +1,6 @@
 # AuroraDroid installer for magisk
 
-This module NOT containing AuroraDroid APK, you can find it by yoursellf and put inside /system/priv-app/com.aurora.adroid/ directory.
+This module NOT containing [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid/blob/master/README.md) APK, you can find it by yoursellf and put inside /system/priv-app/com.aurora.adroid/ directory.
 
 ## How to make magisk module:
 - Clone repo (or download as zip)
